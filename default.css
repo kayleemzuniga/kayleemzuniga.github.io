@@ -1,18 +1,18 @@
 body{
-    background-color:yellowgreen;
+    background-color:rgb(179, 216, 105);
     background-image: url(graphics/puppies.jpeg);
     background-repeat: no-repeat;
 }
 
 h1, h3 {
-    color:beige;
+    color:rgb(27, 87, 89);
 }
 
 h1{font-size: 36px;
 }
 
 hr{
-    color:rosybrown;
+    color:rgb(56, 94, 60);
     height: 10px;
     width: 50%;
 }
