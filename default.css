@@ -1,0 +1,24 @@
+body{
+    background-color:forestgreen;
+    background-image: url(puppies.jpeg);
+    background-repeat: no-repeat;
+}
+
+h1, h3 {
+    color:beige;
+}
+
+h1{font-size: 36px;
+}
+
+hr{
+    color:rosybrown;
+    height: 10px;
+    width: 50%;
+}
+
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 32px;
+}
