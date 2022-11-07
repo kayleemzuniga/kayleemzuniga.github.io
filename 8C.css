@@ -4,8 +4,11 @@ body{
     border-color:burlywood;
     background-color:antiquewhite;}
 
-h1 { color: brown;
-    font-size: 60px;
+h1 {
+    border-style: double;
+    border-color:olive;
+    color: brown;
+    font-size: 88px;
     font-family: 'PT Serif', serif;
 
 }
