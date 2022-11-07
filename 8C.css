@@ -1,0 +1,20 @@
+body{
+    background-color:antiquewhite;}
+
+h1 { color: brown;
+    font: 36px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+p{ font-family: 'Fjalla One', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 32px;
+
+}
+
